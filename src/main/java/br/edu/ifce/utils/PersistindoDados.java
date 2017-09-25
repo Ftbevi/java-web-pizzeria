@@ -23,9 +23,9 @@ public class PersistindoDados {
 		
 //		Inserting Client
 		Client client = new Client();
-		client.setName("Thiago Beviláqua");
+		client.setName("Thiago BevilÃ¡qua");
 		client.setPhone("(34) 1234-5678");
-		client.setAddress("Rua Teofilo Beviláqua");
+		client.setAddress("Rua Teofilo BevilÃ¡qua");
 		
 		Client client2 = new Client();
 		client2.setName("Manoel Soaress");
@@ -96,7 +96,7 @@ public class PersistindoDados {
 		
 //		Inserting Menu
 		Menu menu = new Menu();
-		menu.setName("Seção de Pizza");
+		menu.setName("Seï¿½ï¿½o de Pizza");
 		menu.getPizzas().add(pizza);
 		menu.getPizzas().add(pizza2);
 		
