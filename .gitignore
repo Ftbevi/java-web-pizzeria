@@ -1,6 +1,7 @@
 # Files
 .classpath
 .project
+.class
 
 # Folders
 .settings/
